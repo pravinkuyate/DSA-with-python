@@ -22,3 +22,4 @@ if __name__=="__main__":
     elements=[88,78,1,89,56,1,3,54,6,8,9,7,98,95,8,58,1,3]
     bubble_sort(elements)
     print(elements)
+    
