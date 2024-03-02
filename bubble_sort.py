@@ -3,7 +3,7 @@ def bubble_sort(elements):
     size=len(elements)
     print("size is ",size+1)
     swapped=False
-    for j in range(int(size/1.7)-1):
+    for j in range(int(size/2)-1):
         for i in range(size-1-j):
             if elements[i] >elements[i+1]:
             #swap 
