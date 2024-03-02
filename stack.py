@@ -20,6 +20,9 @@ class stack:
 
 stack1=stack()
 stack1.push(10)
+stack1.push(20)
+print(stack1.size())
+
 
 
 print(stack1.size())
