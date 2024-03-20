@@ -20,3 +20,5 @@ for i in range(2,num//2):
      print(a)
      if a==0:
         break
+
+   

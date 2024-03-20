@@ -8,4 +8,6 @@ def pali(s):
         print("string is not palimdorme")
 
 
-pali("leve")
+pali("level")
+
+
